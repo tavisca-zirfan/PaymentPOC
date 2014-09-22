@@ -1,0 +1,7 @@
+D:\PaymentPOC\PaymentGateway\PaymentService\bin\Debug\PaymentService.dll
+D:\PaymentPOC\PaymentGateway\PaymentService\bin\Debug\PaymentService.pdb
+D:\PaymentPOC\PaymentGateway\PaymentService\obj\Debug\PaymentService.csprojResolveAssemblyReference.cache
+D:\PaymentPOC\PaymentGateway\PaymentService\obj\Debug\PaymentService.dll
+D:\PaymentPOC\PaymentGateway\PaymentService\obj\Debug\PaymentService.pdb
+D:\PaymentPOC\PaymentGateway\PaymentService\bin\Debug\Newtonsoft.Json.dll
+D:\PaymentPOC\PaymentGateway\PaymentService\bin\Debug\Newtonsoft.Json.xml
